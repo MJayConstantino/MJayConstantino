@@ -15,4 +15,5 @@ Godot Engine and Unity, GDScript + C#
 React Native
 ### Languages learned from University
 Python, Scala, Typescript
-for future goals i want to be a swift developer
+
+My plan is to be a mobile/web developer.
