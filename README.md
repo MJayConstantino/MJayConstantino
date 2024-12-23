@@ -3,8 +3,12 @@ I am a Software Engineering Student @ Central Philippine University.
 
 👀 I’m interested in ...
 
-Web Development
-Redstone
+- Web Development
+- Game Development
+- Mobile Development
+- Blockchain Technology
+- Crypto
+
 ## 🌱 I’m currently learning the following:
 
 ### Web Development
