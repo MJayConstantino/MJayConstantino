@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @MJayConstantino
-I am a Software Engineering Student @ Central Philippine University.
+I am Michael Contantino
+Currently: I am a Software Engineering Student @ Central Philippine University.
 
 👀 I’m interested in ...
 
@@ -7,7 +8,7 @@ I am a Software Engineering Student @ Central Philippine University.
 - Blockchain Technology
 - Crypto in general
 
-## 🌱 I’m currently learning the following:
+## 💻 I’m currently learning the following:
 
 ### Web Development
 Nextjs + Typescript
