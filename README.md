@@ -3,11 +3,9 @@ I am a Software Engineering Student @ Central Philippine University.
 
 👀 I’m interested in ...
 
-- Web Development
-- Game Development
-- Mobile Development
+- AI/ Machine Learning Technology
 - Blockchain Technology
-- Crypto
+- Crypto in general
 
 ## 🌱 I’m currently learning the following:
 
@@ -19,5 +17,9 @@ Godot Engine and Unity, GDScript + C#
 React Native
 ### Languages learned from University
 Python, Scala, Typescript
+### Database
+PostgreSQL, Firebase
+### Project Management
+Scrum
 
-My plan is to be a mobile/web developer.
+My plan is to be a mobile/web developer, or go into the field of crypto development
