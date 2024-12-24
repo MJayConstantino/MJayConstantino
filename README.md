@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @MJayConstantino
-I am Michael Contantino
+I am Michael Constantino
 
 Currently: I am a Software Engineering Student @ Central Philippine University.
 
