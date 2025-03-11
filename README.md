@@ -20,7 +20,7 @@ React Native
 ### Languages learned from University
 Python, Scala, Typescript
 ### Database
-PostgreSQL, Firebase
+PostgreSQL, Firebase, Supabase
 ### Project Management
 Scrum
 
