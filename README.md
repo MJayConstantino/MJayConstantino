@@ -22,7 +22,7 @@ Python, Scala, Typescript
 ### Database
 PostgreSQL, Firebase, Supabase
 ### Project Management
-Scrum
+Agile Methodology - Scrum
 
 ## 💼 Future Plans
 My plan is to be a mobile/web developer, or go into the field of crypto development
