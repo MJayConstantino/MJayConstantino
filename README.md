@@ -8,19 +8,25 @@ Currently: I am a Software Engineering Student @ Central Philippine University.
 - AI/ Machine Learning Technology
 - Blockchain Technology
 - Crypto in general
+- Startups
 
 ## 💻 I’m currently learning the following:
 
 ### Web Development
-Nextjs + Typescript
+React Framworks like Vite and Next + Typescript
+
 ### Game Development
 Godot Engine and Unity, GDScript + C#
+
 ### Mobile Development
 React Native
+
 ### Languages learned from University
 Python, Scala, Typescript
+
 ### Database
 PostgreSQL, Firebase, Supabase
+
 ### Project Management
 Agile Methodology - Scrum
 
