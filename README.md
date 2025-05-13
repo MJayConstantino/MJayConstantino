@@ -19,7 +19,7 @@ React Framworks like Vite and Next + Typescript
 Godot Engine and Unity, GDScript + C#
 
 ### Mobile Development
-React Native
+React Native + Expo
 
 ### Languages learned from University
 Python, Scala, Typescript
@@ -29,6 +29,3 @@ PostgreSQL, Firebase, Supabase
 
 ### Project Management
 Agile Methodology - Scrum
-
-## 💼 Future Plans
-My plan is to be a mobile/web developer, or go into the field of crypto development
