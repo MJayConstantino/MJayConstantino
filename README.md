@@ -1,31 +1,46 @@
-# 👋 Hi, I’m @MJayConstantino
-I am Michael Constantino
+# 👋 Hi there, I'm **Michael Jay Constantino** (@MJayConstantino)
 
-Currently: I am a Software Engineering Student @ Central Philippine University.
+🎓 I'm a **Software Engineering student** at **Central Philippine University**  
+💡 Passionate about **AI**, **Blockchain**, and the future of **tech startups**  
+🚀 Constantly building, learning, and experimenting
 
-👀 I’m interested in ...
+---
 
-- AI/ Machine Learning Technology
-- Blockchain Technology
-- Crypto in general
-- Startups
+## 👀 Interests
 
-## 💻 I’m currently learning the following:
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🔗 Blockchain & Cryptocurrency  
+- 🌱 Startup Culture & Entrepreneurship  
+- 🎮 Game Development & Design
 
-### Web Development
-React Framworks like Vite and Next + Typescript
+---
 
-### Game Development
-Godot Engine and Unity, GDScript + C#
+## 💻 Currently Learning
 
-### Mobile Development
-React Native + Expo
+### 🌐 Web Development
+- React Frameworks: **Next.js**, **Vite**
+- Strong focus on **TypeScript**
 
-### Languages learned from University
-Python, Scala, Typescript
+### 📱 Mobile Development
+- **React Native** with **Expo**
 
-### Database
-PostgreSQL, Firebase, Supabase
+### 🎮 Game Development
+- **Godot Engine** (GDScript)
+- **Unity Engine** (C#)
 
-### Project Management
-Agile Methodology - Scrum
+### 💾 Backend & Databases
+- **PostgreSQL**, **Firebase**, **Supabase**
+
+### 🔧 Languages Learned from University
+- **Python**, **Scala**, **TypeScript**
+
+### 📈 Project & Team Management
+- **Agile Methodology** – Scrum  
+- Version Control with **Git & GitHub**
+
+---
+
+## 🛠️ Currently Working On
+- Building projects that mix **AI + Web**  
+- Experimenting with **game mechanics** in Godot & Unity  
+- Prototyping **blockchain-based apps**  
