@@ -37,10 +37,3 @@
 ### 📈 Project & Team Management
 - **Agile Methodology** – Scrum  
 - Version Control with **Git & GitHub**
-
----
-
-## 🛠️ Currently Working On
-- Building projects that mix **AI + Web**  
-- Experimenting with **game mechanics** in Godot & Unity  
-- Prototyping **blockchain-based apps**  
