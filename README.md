@@ -15,25 +15,7 @@
 
 ---
 
-## 💻 Currently Learning
-
-### 🌐 Web Development
-- React Frameworks: **Next.js**, **Vite**
-- Strong focus on **TypeScript**
-
-### 📱 Mobile Development
-- **React Native** with **Expo**
-
-### 🎮 Game Development
-- **Godot Engine** (GDScript)
-- **Unity Engine** (C#)
-
-### 💾 Backend & Databases
-- **PostgreSQL**, **Firebase**, **Supabase**
-
-### 🔧 Languages Learned from University
-- **Python**, **Scala**, **TypeScript**
-
-### 📈 Project & Team Management
-- **Agile Methodology** – Scrum  
-- Version Control with **Git & GitHub**
+## 💻 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJayConstantino&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MJayConstantino&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=MJayConstantino&theme=default&hide_border=true)
