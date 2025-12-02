@@ -35,13 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJayConstantino&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJayConstantino&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![Streak Stats](https://streak-stats.demolab.com?user=MJayConstantino&theme=tokyonight&hide_border=true)
-
----
-
 ## 👀 Interests
 
 - 🤖 Artificial Intelligence & Machine Learning  
