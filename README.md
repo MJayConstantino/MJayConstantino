@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-constantino-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjconstantino12345@gmail.com)
 
-`sheesh~~`
+`sheeeesh~~`
 
 **Software Engineering Student @ Central Philippine University**  
 I bring **3+ years of experience** forged through multiple hackathons, freelance client projects, and the fast-paced environment of early-stage startups. I focus on building scalable web and mobile applications with a heavy emphasis on type-safety and developer experience.
