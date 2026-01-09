@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I am Michael Constantino
-### **Software Engineer | Fullstack Development **
+### **Software Engineer | Fullstack Development**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mich-constantino/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MJayConstantino)
