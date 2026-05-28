@@ -100,7 +100,7 @@ Built and integrated production-facing mobile features using React Native and Ex
 An overview of my top languages, lines of code, and contributions.
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
 ---
