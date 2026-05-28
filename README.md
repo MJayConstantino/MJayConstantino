@@ -64,28 +64,6 @@ I care about writing maintainable code, collaborating in agile teams, and shippi
 
 ---
 
-## Featured Work
-
-### DALI Portal
-
-A legislative document tracking and public portal system built to digitize government-related workflows, including document management, internal dashboards, role-based access, and public access to legislative records.
-
-**Role:** Scrum Master & Fullstack Developer
-**Stack:** Next.js, NestJS, Supabase, PostgreSQL, Authentication, RBAC, RLS
-
-### Notetube
-
-An AI-powered learning platform that turns uploaded notes and PDFs into related YouTube suggestions and flashcards.
-
-**Role:** Fullstack Developer / Team Lead
-**Stack:** React, Node.js, PDF processing, flashcard generation, responsive UI
-
-### React Native / Expo Mobile Work
-
-Built and integrated production-facing mobile features using React Native and Expo, including reusable components, authentication-aware flows, and third-party SDK integrations.
-
----
-
 ## Currently Learning & Exploring
 
 - DevOps, VPS self-hosting, Docker, and CI/CD
@@ -102,15 +80,3 @@ An overview of my top languages, lines of code, and contributions.
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
-
----
-
-## Let's Connect
-
-I'm always interested in learning, building useful products, collaborating with teams, and taking on projects that challenge me to grow as a software engineer.
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://www.michaelconstantino.dev/) · [Email](mailto:mjconstantino12345@gmail.com)
-
-</div>
