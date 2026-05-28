@@ -6,7 +6,7 @@
 
 I build scalable web and mobile applications with a strong focus on clean architecture, type-safety, developer experience, and practical software that solves real problems.
 
-[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://michael-constantino-portfolio.vercel.app/) · [GitHub](https://github.com/MJayConstantino) · [Email](mailto:mjconstantino12345@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://www.michaelconstantino.dev/) · [GitHub](https://github.com/MJayConstantino) · [Email](mailto:mjconstantino12345@gmail.com)
 
 </div>
 
