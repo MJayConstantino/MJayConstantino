@@ -1,82 +1,123 @@
 <div align="center">
 
-# 👋 Hi, I am Michael Constantino
-### **Software Engineer | Fullstack Development**
+# Hi, I'm Michael Constantino 👋
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mich-constantino/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MJayConstantino)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-constantino-portfolio.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjconstantino12345@gmail.com)
+### Software Engineer · Fullstack Developer · Software Engineering Student
 
-`sheeeeshh~~`
+I build scalable web and mobile applications with a strong focus on clean architecture, type-safety, developer experience, and practical software that solves real problems.
 
-**Software Engineering Student @ Central Philippine University**  
-I bring **3+ years of experience** forged through multiple hackathons, freelance client projects, and the fast-paced environment of early-stage startups. I focus on building scalable web and mobile applications with a heavy emphasis on type-safety and developer experience.
+[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://michael-constantino-portfolio.vercel.app/) · [GitHub](https://github.com/MJayConstantino) · [Email](mailto:mjconstantino12345@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-</p>
+I'm a Software Engineering student at **Central Philippine University** with experience building fullstack products, mobile apps, internal tools, and client-facing systems across academic, startup, freelance, and hackathon environments.
 
-### 🖼️ Frontend & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-ffffff?style=for-the-badge&logo=expo&logoColor=black" />
-</p>
+Most of my work revolves around **TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS**, **PostgreSQL**, **Supabase**, and **React Native / Expo**. I enjoy working across the stack, from designing clean user interfaces to building secure APIs, database schemas, authentication flows, and deployment pipelines.
 
-### ⚙️ Backend & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 🧪 Quality Assurance & Testing
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-</p>
-
-### 🤝 Collaboration & Project Management
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🧩 Game Engines
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-</p>
+I care about writing maintainable code, collaborating in agile teams, and shipping products that are actually useful to people.
 
 ---
 
-## 🏗️ Currently Exploring
+## What I Do
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/oRPC-2563EB?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Start-0F172A?style=for-the-badge&logo=tanstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+* Build fullstack web applications using **Next.js, React, TypeScript, and Node.js**
+* Develop mobile applications with **React Native and Expo**
+* Design backend systems with **NestJS, Express, PostgreSQL, Prisma, and Supabase**
+* Implement authentication, role-based access control, and database security rules
+* Create reusable UI components, test flows, and developer-friendly project structures
+* Lead and collaborate in agile teams as a developer and Scrum Master
+
+---
+
+## Tech Stack
+
+### Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat\&logo=expo\&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+
+### Tools & Testing
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat\&logo=shadcnui\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat\&logo=cypress\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat\&logo=jest\&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat\&logo=storybook\&logoColor=white)
+
+---
+
+## Featured Work
+
+### DALI Portal
+
+A legislative document tracking and public portal system built to digitize government-related workflows, including document management, internal dashboards, role-based access, and public access to legislative records.
+
+**Role:** Scrum Master & Fullstack Developer
+**Stack:** Next.js, NestJS, Supabase, PostgreSQL, Authentication, RBAC, RLS
+
+### Notetube
+
+An AI-powered learning platform that turns uploaded notes and PDFs into related YouTube suggestions and flashcards.
+
+**Role:** Fullstack Developer / Team Lead
+**Stack:** React, Node.js, PDF processing, flashcard generation, responsive UI
+
+### React Native / Expo Mobile Work
+
+Built and integrated production-facing mobile features using React Native and Expo, including reusable components, authentication-aware flows, and third-party SDK integrations.
+
+---
+
+## Currently Learning & Exploring
+
+* DevOps, VPS self-hosting, Docker, and CI/CD
+* Scalable backend architecture with NestJS and PostgreSQL
+* Mobile app architecture with Expo development builds
+* AI-assisted product features and local-first app ideas
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MJayConstantino&show_icons=true&hide_border=true&theme=transparent" alt="Michael's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJayConstantino&layout=compact&hide_border=true&theme=transparent" alt="Michael's top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MJayConstantino&hide_border=true&theme=transparent" alt="GitHub streak stats" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, building useful products, collaborating with teams, and taking on projects that challenge me to grow as a software engineer.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://michael-constantino-portfolio.vercel.app/) · [Email](mailto:mjconstantino12345@gmail.com)
+
+</div>
