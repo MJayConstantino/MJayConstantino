@@ -2,7 +2,7 @@
 
 # Hi, I'm Michael Constantino 👋
 
-### Software Engineer · Fullstack Developer · Software Engineering Student
+### Software Engineer · Fullstack Developer
 
 I build scalable web and mobile applications with a strong focus on clean architecture, type-safety, developer experience, and practical software that solves real problems.
 
@@ -118,6 +118,6 @@ I'm always interested in learning, building useful products, collaborating with 
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://michael-constantino-portfolio.vercel.app/) · [Email](mailto:mjconstantino12345@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Portfolio](https://www.michaelconstantino.dev/) · [Email](mailto:mjconstantino12345@gmail.com)
 
 </div>
