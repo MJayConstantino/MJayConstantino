@@ -99,14 +99,16 @@ Built and integrated production-facing mobile features using React Native and Ex
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MJayConstantino&show_icons=true&hide_border=true&theme=transparent" alt="Michael's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJayConstantino&layout=compact&hide_border=true&theme=transparent" alt="Michael's top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MJayConstantino&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&hide_border=true" alt="Michael's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJayConstantino&layout=compact&theme=github_dark&hide_border=true" alt="Michael's top languages" />
 
 </div>
 
+<br />
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MJayConstantino&hide_border=true&theme=transparent" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=MJayConstantino&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
