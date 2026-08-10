@@ -72,11 +72,3 @@ I care about writing maintainable code, collaborating in agile teams, and shippi
 - AI-assisted product features and local-first app ideas
 
 ---
-
-## GitHub Activity & Stats
-
-An overview of my top languages, lines of code, and contributions.
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%" />
-</p>
