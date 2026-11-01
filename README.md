@@ -4,8 +4,6 @@
 
 ### Software Engineer · Fullstack Developer · Game Developer
 
-From government portals and mobile apps to multiplayer games, computer vision, and Arduino-powered hardware.
-
 [Portfolio](https://www.michaelconstantino.dev/) · [LinkedIn](https://www.linkedin.com/in/mich-constantino/) · [Email](mailto:mjconstantino12345@gmail.com)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -23,9 +21,9 @@ From government portals and mobile apps to multiplayer games, computer vision, a
 
 I'm a **Software Engineering student at Central Philippine University**, based in the Philippines. My focus is backend engineering, but I enjoy building the whole experience: the interface, API, database, and the pieces that connect them.
 
-I've worked on government systems, organization platforms, startup products, freelance projects, and game jams. I'm also the **Lead Fullstack Developer at Centralian Developer Group – CPU**, and I've taken on team leadership and Scrum Master roles along the way.
+I've worked on government systems, organization platforms, startup products, freelance projects, and game jams.
 
-I like projects that make me learn something new. Sometimes that's a better authentication flow. Sometimes it's a rewind mechanic, a webcam model, or getting a phone to talk to an irrigation controller over local Wi-Fi.
+I like projects that make me learn something new. From automating small inconveniences to doing big scale systems. I like it when I am learning a new language, field or better stack.
 
 ## My toolkit
 
