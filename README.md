@@ -42,8 +42,8 @@ I like projects that make me learn something new. From automating small inconven
 
 - **2025 — Top 12 nationwide**, Globe Hangouts GoGAMING.
 - **2025 — 3rd place, Region VI regional finalist**, Philippine Startup Challenge, with **TaxiBuddy**.
-- **2024 — Semifinalist**, Google Solution Challenge, with **Project Alora**.
 - **2024 — Odyssey Festival Developers District Hackathon**, a two-month game jam where we built **Mix & Mash**.
+- **2024 — Semifinalist**, Google Solution Challenge, with **Project Alora**.
 
 ## On my workbench
 
